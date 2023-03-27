@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LMSApp</string>
+    <string name="txt_login">Faça o seu Login:</string>
+    <string name="txt_usuario">Usuário:</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_btnlogin">LOGIN</string>
+    <string name="msg_usuario">Informar o Nome do Usuario</string>
+    <string name="msg_password">Informar a Password do Usuário:</string>
+</resources>
